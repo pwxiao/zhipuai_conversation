@@ -2,7 +2,7 @@
 
 from zhipuai import ZhipuAI
 
-client = ZhipuAI(api_key="23b6ef7fd26d15dd41f2ada9368fb227.vraSfTkwHqJo7YxJ")
+client = ZhipuAI(api_key="xxxx")
 print("欢迎使用智谱ai")
 a=""
 while True:
